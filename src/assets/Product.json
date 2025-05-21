@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Mie Ayam",
+        "gambar" : "./img/mie.jpg",
+        "price": 23000
+    },
+    {
+        "id": 2,
+        "title": "Bakso",
+        "gambar" : "./img/bakso.jpg",
+        "price": 23000
+    },
+    {
+        "id": 3,
+        "title": "Sate",
+        "gambar" : "./img/sate.jpg",
+        "price": 20000
+    },
+    {
+        "id": 4,
+        "title": "Ikan Goreng",
+        "gambar" : "./img/ikan.jpg",
+        "price": 23000
+    },
+    {
+        "id": 5,
+        "title": "Rendang",
+        "gambar" : "./img/rendang.jpg",
+        "price": 23000
+    },
+    {
+        "id": 6,
+        "title": "Bubur",
+        "gambar" : "./img/bubur.jpg",
+        "price": 20000
+    },
+    {
+        "id": 7,
+        "title": "Nasi Goreng",
+        "gambar" : "./img/nasigoreng.jpg",
+        "price": 15000
+    },
+    {
+        "id": 8,
+        "title": "Ayam Goreng",
+        "gambar" : "./img/ayam.jpg",
+        "price": 20000
+    }
+]

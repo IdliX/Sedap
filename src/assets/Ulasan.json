@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Dorothy C. Swarts",
+    "avatar": "https://avatar.iran.liara.run/public",
+    "review": "Masakannya sangat enak",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Gary F. Wilson",
+    "avatar": "https://avatar.iran.liara.run/public",
+    "review": "Tempat makan ini sangat enak",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Ronald S. Price",
+    "avatar": "https://avatar.iran.liara.run/public",
+    "review": "Harganya Murah",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "name": "Elsie K. Beauc",
+    "avatar": "https://avatar.iran.liara.run/public",
+    "review": "Porsinya banyak",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "John D. Smith",
+    "avatar": "https://avatar.iran.liara.run/public",
+    "review": "Sudah langganan",
+    "rating": 4.8
+  }
+]
