@@ -18,6 +18,8 @@ const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const GuestLayout = React.lazy(() => import("./layouts/GuestLayout"));
 const Loading = React.lazy(() => import("./components/Loading"));
 const ErrorLayout = React.lazy(() => import("./layouts/ErrorLayout"));
+const Products = React.lazy(() => import("./pages/Products"));
+const ProductDetail = React.lazy(() => import("./components/ProductDetail"))
 import { Routes, Route } from "react-router-dom";
 import { Suspense } from "react";
 import Guest from "./pages/Guest";
@@ -33,6 +35,8 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/user" element={<Users />} />
+          <Route path="/products" element={<Products  />} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
         </Route>
         <Route element={<AuthLayout/>}>
             <Route path="/login" element={<Login />} />
